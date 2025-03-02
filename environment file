@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://username:password@cluster0.mongodb.net/recipeDB?retryWrites=true&w=majority
+JWT_SECRET=mySuperSecretKey123
